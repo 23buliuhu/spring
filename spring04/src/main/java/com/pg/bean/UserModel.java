@@ -1,4 +1,4 @@
-
+            
 package com.pg.bean;
 
 /**
@@ -9,7 +9,7 @@ package com.pg.bean;
  * @version  [版本号, 2016年5月18日]
  */
 public class UserModel
-{
+{ 
     private String username; 
     private String password;
 
@@ -17,7 +17,7 @@ public class UserModel
     {
         return username;
     }
-
+    
     public void setUsername( String username )
     {
         this.username = username;
